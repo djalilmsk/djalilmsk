@@ -2,7 +2,7 @@
 
 - 📫 Reach me at:  **djalil.meskali@gmail.com**
 - 📄 Check out my resume: [Click Here](https://docs.google.com/document/d/1_ErwCNzoe90wvGPYZXMA3hk3CNXqhMNTX0p4n0twDOQ/edit?tab=t.0)
-- 🔗 Connect with me on LinkedIn: [My Linkedin](https://www.linkedin.com/in/abd-eldjallil-meskali-b62b44302/)
+- 🔗 Connect with me: [My Linkedin](https://www.linkedin.com/in/abd-eldjallil-meskali-b62b44302/)
 
 <!--
 **djalilmsk/djalilmsk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
