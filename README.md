@@ -3,6 +3,7 @@
 - 📫 Reach me at:  **djalil.meskali@gmail.com**
 - 📄 Check out: [My Resume](https://docs.google.com/document/d/19aoIxsCUceXMsCSCspe6Q-6C9MocVeZChcelHHZ4LsU/edit?usp=sharing)
 - 🔗 Connect with me: [My Linkedin](https://www.linkedin.com/in/abd-eldjallil-meskali-b62b44302/)
+- 🌐 Explore more: [My Portfolio](https://djalilmsk.vercel.app/)
 <!--
 ## Tech Stack
 
