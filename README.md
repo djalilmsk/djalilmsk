@@ -1,4 +1,4 @@
-## Hi there 👋 — React-Focused Frontend Developer here.
+## Hi there 👋 — React-Focused Web Developer here.
 
 - 📫 Reach me at:  **djalil.meskali@gmail.com**
 - 📄 Check out: [My Resume](https://docs.google.com/document/d/19aoIxsCUceXMsCSCspe6Q-6C9MocVeZChcelHHZ4LsU/edit?usp=sharing)
