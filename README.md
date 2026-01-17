@@ -1,7 +1,7 @@
 ## Hi there 👋 | Web Developer Frontend-Focus.
 
 - 📫 Reach me at:  **djalil.meskali@gmail.com**
-- 📄 Check out: [My Resume](https://www.djalilmsk.dev/Abd%20Eldjallil%20Meskali%20Frontend-Focused%20Web%20Developer.pdf)
+- 📄 Check out: [My Resume](https://www.djalilmsk.dev/resume.pdf)
 - 🔗 Connect with me: [My Linkedin](https://www.linkedin.com/in/abd-eldjallil-meskali/)
 - 🌐 Explore more: [My Portfolio](https://djalilmsk.dev/)
 <!--
