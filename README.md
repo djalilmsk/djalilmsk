@@ -1,4 +1,4 @@
-[![djalilmsk portfolio Preview](https://www.djalilmsk.dev/preview.png)](https://www.djalilmsk.dev/)
+[![djalilmsk portfolio Preview](https://www.djalilmsk.dev/preview.jpg)](https://www.djalilmsk.dev/)
 
 - 📫 Reach me at:  **djalil.meskali@gmail.com**
 - 📄 Check out: [My Resume](https://www.djalilmsk.dev/resume.pdf)
