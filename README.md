@@ -1,12 +1,12 @@
 # Hi There, Abd Eldjallil Meskali Here, A Web Developer.
 
-### Web Developer | React & Next.js | Node.js & Express | UI/UX & Visual Design (Figma) | GDG Constantine Development Manager | Tech Instructor
+### Web and Mobile Developer | React & Next.js | Expo | Node.js & Express | UI/UX & Visual Design (Figma) | GDG Constantine Development Manager | Tech Instructor
 
 [![Portfolio Preview](https://www.djalilmsk.dev/preview.jpg)](https://www.djalilmsk.dev/links)
 
 ## About Me
 
-I'm a web developer based in Algeria with a strong focus on front-end development, while also building full-stack web applications when needed. I work mainly with React and Next.js for the front-end, and handle backend logic using Node.js and Express, along with both SQL and NoSQL databases.
+I'm a Web and Mobile developer based in Algeria with a strong focus on front-end development, while also building full-stack web applications. I work mainly with React and Next.js for the front-end also Expo for mobile, and handle backend logic using Node.js and Express, along with both SQL and NoSQL databases.
 
 Alongside development, I have experience with UI/UX and visual design using Figma. I design interfaces, layouts, and visual assets for web platforms, especially when working solo on projects.
 
