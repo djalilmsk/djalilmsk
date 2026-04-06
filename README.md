@@ -1,4 +1,4 @@
-# Hi There, Abd Eldjallil Meskali Here, A Web Developer.
+# Hi There, Abd Eldjallil Meskali Here, A Web & Mobile Developer.
 
 ### Web and Mobile Developer | React & Next.js | Expo (React Native) | Node.js & Express | UI/UX & Visual Design (Figma) | GDG Constantine Development Manager | Tech Instructor
 
