@@ -1,6 +1,4 @@
-# Hi There, Abd Eldjallil Meskali Here, A Web & Mobile Developer.
-
-### Web and Mobile Developer | React & Next.js | Expo (React Native) | Node.js & Express | UI/UX & Visual Design (Figma) | GDG Constantine Development Manager | Tech Instructor
+# Hope you like my profile!
 
 [![Portfolio Preview](https://www.djalilmsk.dev/preview.jpg)](https://www.djalilmsk.dev/links)
 
