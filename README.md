@@ -4,4 +4,4 @@
 
 I enjoy building stuff and designing stuff.
 
-[Portfolio](https://djalilmsk.dev) · [All my links](https://www.djalilmsk.dev/en/links) · [Outdated resume (perpetually in my backlog)](https://djalilmsk.dev/resume.pdf) · [Email](mailto:djalil.meskali@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abd-eldjallil-meskali) · [Instagram](https://instagram.com/djalilmsk)
+[Portfolio](https://djalilmsk.dev) · [All my links](https://www.djalilmsk.dev/en/links) · Probably Outdated [resume](https://djalilmsk.dev/resume.pdf) (perpetually in my backlog) · [Email](mailto:djalil.meskali@gmail.com) · [LinkedIn](https://www.linkedin.com/in/abd-eldjallil-meskali) · [Instagram](https://instagram.com/djalilmsk)
