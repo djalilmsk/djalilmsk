@@ -1,6 +1,6 @@
 # Hope you like my profile!
 
-[![Abd Eldjallil Meskali, web and mobile developer](https://www.djalilmsk.dev/preview.jpg)](https://www.djalilmsk.dev/en/links)
+[![Abd Eldjallil Meskali, web and mobile developer](https://www.djalilmsk.dev/og-en.jpg)](https://www.djalilmsk.dev/en/links)
 
 I enjoy building stuff and designing stuff.
 
